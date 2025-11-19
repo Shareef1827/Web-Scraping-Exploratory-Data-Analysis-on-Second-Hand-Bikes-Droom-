@@ -1,0 +1,2 @@
+# Web-Scraping-Exploratory-Data-Analysis-on-Second-Hand-Bikes-Droom-
+This project focuses on scraping second-hand bike listings from the Droom platform and performing detailed Exploratory Data Analysis (EDA) to understand pricing trends, brand performance, and market patterns. The goal is to automate data collection, clean the dataset, visualize key insights, and identify major factors influencing resale bike prices
