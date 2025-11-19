@@ -34,4 +34,25 @@ Automated scraping using Python (Requests + BeautifulSoup)
 # Project Files
 - <a href="https://github.com/Shareef1827/Web-Scraping-Exploratory-Data-Analysis-on-Second-Hand-Bikes-Droom-/blob/main/EDA_Project.ipynb">Python Code File </a>
 - <a href="https://github.com/Shareef1827/Web-Scraping-Exploratory-Data-Analysis-on-Second-Hand-Bikes-Droom-/blob/main/Final_Dataset_CSV.csv"> Uncleaned Dataset </a>
+- <a href="https://github.com/Shareef1827/Web-Scraping-Exploratory-Data-Analysis-on-Second-Hand-Bikes-Droom-/blob/main/bikes_dataset.csv"> Cleaned Dataset </a>
+- <a href="https://github.com/Shareef1827/Web-Scraping-Exploratory-Data-Analysis-on-Second-Hand-Bikes-Droom-/blob/main/Web%20Scraping%20and%20EDA.pptx"> Presentation </a>
+
+# Key Insights
+- Most bikes listed are recent models, boosting market value
+- Price does not strongly depend on distance travelled
+- Brand and city are major pricing factors
+- Strong listing activity from Mumbai & Bangalore
+
+# Technologies Used
+- Python
+- Web Scraping: Requests, BeautifulSoup
+- Data Analysis: Pandas, NumPy
+- Visualization: Matplotlib, Seaborn
+- Environment: Jupyter Notebook
+
+# Future Enhancements
+- Add machine learning models to predict bike resale prices
+- Deploy insights on a Streamlit dashboard
+- Automate scraping with cron/schedulers
+- Add geospatial visualization for city-wise market density
 
